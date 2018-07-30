@@ -1,8 +1,12 @@
 <style>
-html {
-	background: #ffc600;
+element.style{
+
+	background-color: #ffc600;
+}
+* {
+	background-color: #ffc600;
 	box-sizing: border-box;
-	font-family: "Comic Sans MS";
+	
 	font-size: 20px;
 	font-weight: 100;
 }
@@ -10,7 +14,7 @@ html {
 	box-sizing: inherit;
 }
 input{
-width: 100%
+width: 100%;
 padding: 20px;
 }
 .search-form{
